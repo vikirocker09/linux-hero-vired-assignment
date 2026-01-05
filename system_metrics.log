@@ -1,0 +1,28 @@
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   17G  4.3G   13G  26% /
+devtmpfs             823M     0  823M   0% /dev
+tmpfs                853M   84K  853M   1% /dev/shm
+tmpfs                342M  6.9M  335M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  423M  538M  44% /boot
+tmpfs                171M  148K  171M   1% /run/user/1000
+/dev/sr0             8.6G  8.6G     0 100% /run/media/viki/CentOS-Stream-10-BaseOS-x86_64
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   17G  4.3G   13G  26% /
+devtmpfs             823M     0  823M   0% /dev
+tmpfs                853M   84K  853M   1% /dev/shm
+tmpfs                342M  6.9M  335M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  423M  538M  44% /boot
+tmpfs                171M  148K  171M   1% /run/user/1000
+/dev/sr0             8.6G  8.6G     0 100% /run/media/viki/CentOS-Stream-10-BaseOS-x86_64
+bash: Desktop/: Is a directory
+Filesystem           Size  Used Avail Use% Mounted on
+/dev/mapper/cs-root   17G  4.3G   13G  26% /
+devtmpfs             823M     0  823M   0% /dev
+tmpfs                853M   84K  853M   1% /dev/shm
+tmpfs                342M  6.9M  335M   2% /run
+tmpfs                1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/sda2            960M  423M  538M  44% /boot
+tmpfs                171M  148K  171M   1% /run/user/1000
+/dev/sr0             8.6G  8.6G     0 100% /run/media/viki/CentOS-Stream-10-BaseOS-x86_64
